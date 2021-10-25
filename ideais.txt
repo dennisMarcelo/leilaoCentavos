@@ -1,0 +1,20 @@
+table de produtos:
+
+[
+  {
+    name: celular,
+    img: url,
+    value: 0,
+    finishOf: false,
+    lastOfferUserId: '',
+  }
+]
+
+tabela de usuarios:
+[
+  {
+    Id:'',
+    name:'',
+    
+  }
+]
